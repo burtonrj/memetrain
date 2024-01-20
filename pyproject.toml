@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "memetrain"
+version = "0.1.0"
+description = "F1 Meme Train Game"
+authors = ["burtonrj <burtonrossj@gmail.com>"]
+license = "GPL"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "<3.13,>=3.8"
+pygame = "^2.5.2"
+pygame-menu = "^4.4.3"
+shapely = "^2.0.2"
+pyinstaller = "^6.3.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
