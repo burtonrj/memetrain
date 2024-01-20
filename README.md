@@ -13,6 +13,14 @@ I'm an avid F1 fan and I've been waiting for the new season to start. I'm also a
 
 The easiest way to install the game is from itch.io. You can download the game from [here](https://naughtywasp.itch.io//memetrain).
 
+On Windows 8.1 and onwards, when you launch the game it may show a warning like:
+    "Windows protected your PC - Windows Defender SmartScreen prevented an 
+    unrecognized app from starting. Running this app might put your PC at risk."
+    
+You can bypass this by clicking "more info" -> "Run Anyway" in the Windows popup.
+
+This happens because I don't have a digital certificate, because they're hella expensive.
+
 ### Linux, mac, and other nerds
 
 If you're not using Windows then I'm afraid you'll have to run the game from source code. Its not that hard, I promise:

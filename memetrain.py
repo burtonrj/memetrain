@@ -4,6 +4,7 @@ import pygame_menu
 import logging
 import pygame
 import random
+import asyncio
 import json
 import sys
 import re
@@ -483,6 +484,7 @@ class MemeTrain:
         """
         if self.meme_sound is not None:
             self.meme_sound.stop()
+        self.super_max_sound.stop()
         self.super_max_sound.play(-1)
 
     def stop_super_max(self):

@@ -8,9 +8,9 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "<3.13,>=3.8"
-pygame = "^2.5.2"
 pygame-menu = "^4.4.3"
 shapely = "^2.0.2"
+pygbag = "^0.8.6"
 pyinstaller = "^6.3.0"
 
 
