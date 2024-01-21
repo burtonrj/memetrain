@@ -11,7 +11,7 @@ I'm an avid F1 fan and I've been waiting for the new season to start. I'm also a
 
 ### Windows
 
-The easiest way to install the game is from itch.io. You can download the game from [here](https://naughtywasp.itch.io//memetrain).
+The easiest way to install the game is from itch.io. You can download the game from [here](https://naughtywasp.itch.io/memetrain).
 
 On Windows 8.1 and onwards, when you launch the game it may show a warning like:
     "Windows protected your PC - Windows Defender SmartScreen prevented an 
